@@ -1,0 +1,114 @@
+git init
+Usage: git init [repository name]
+
+git clone
+Usage: git clone [url]  
+
+This command is used to obtain a repository from an existing URL.
+
+git add
+Usage: git add [file]  
+
+This command adds a file to the staging area.
+
+Git Add Command - Git Commands - Edureka
+
+Usage: git add *  
+
+This command adds one or more to the staging are
+
+DZone > DevOps Zone > Top 20 Git Commands With Examples
+Top 20 Git Commands With Examples
+Now that you (presumably) know what Git is and how it works, take a look at examples of how to use the top 20 Git commands.
+Sahiti Kappagantula user avatar by Sahiti Kappagantula  · Jun. 21, 22 · DevOps Zone · Tutorial
+ Like (109)
+  Comment (7) 
+ Save
+   Tweet  1.87M Views
+Join the DZone community and get the full member experience. JOIN FOR FREE
+In the previous blog, you got an understanding of what git is. In this blog, I will talk about the Top 20 Git Commands that you will be using frequently while you are working with Git.
+
+Here are the Git commands which are being covered:
+
+git config
+git init
+git clone
+git add
+git commit
+git diff
+git reset
+git status
+git rm
+git log
+git show
+git tag
+git branch
+git checkout
+git merge
+git remote
+git push
+git pull
+git stash
+So, let's get started!
+
+Git Commands
+git config
+Usage: git config –global user.name “[name]”  
+
+Usage: git config –global user.email “[email address]”  
+
+This command sets the author name and email address respectively to be used with your commits.
+
+Git Config Command - Git Commands - Edureka
+
+git init
+Usage: git init [repository name]
+
+ 
+
+This command is used to start a new repository.
+
+## git init
+Usage: git init [repository name]
+
+This command is used to start a new repository.
+
+
+## git clone
+Usage: git clone [url]  
+
+This command is used to obtain a repository from an existing URL.
+
+
+
+## git add
+Usage: git add [file]  
+
+This command adds a file to the staging area.
+
+Git Add Command - Git Commands - Edureka
+
+Usage: git add *  
+
+This command adds one or more to the staging area.
+
+
+
+## git commit
+Usage: git commit -m “[ Type in the commit message]”  
+
+This command records or snapshots the file permanently in the version history.
+
+Git Commit Command - Git Commands - Edureka
+
+Usage: git commit -a  
+
+## git status
+Usage: git status  
+
+This command lists all the files that have to be committed.
+
+
+url https://dzone.com/articles/top-20-git-commands-with-examples
+
+This command commits any files you’ve added with the git add command and also commits any files you’ve changed since then.
