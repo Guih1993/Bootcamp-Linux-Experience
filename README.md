@@ -1,5 +1,5 @@
 # Bootcamp Linux Experience
-## Repositorio de projetos criados no Bootcamp de Linux ministrado pela Digital Inoovation One
+## Repositorio de projetos criados no Bootcamp de Linux ministrado pela Digital Innovation One
 
 ### Resumo do curso
 No curso de Linux ofertado pela DIO foi passado uma visão geral do funcionamento das distruibuiçoes server e desktop do Ubuntu, distribuição na qual o curso foi
